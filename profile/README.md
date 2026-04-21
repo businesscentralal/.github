@@ -1,8 +1,7 @@
-# About Kappi ehf.
+# About Origo ehf.
 
-<br>Kappi ehf.
-<br>Kt. 411203-2630
-<br>[Website](https://kappi.is)
+<br>Origo ehf.
+<br>[Website](https://origo.is)
 <br>
 <br>Gunnar Þór Gestsson
 <br>Eyrartún 4
@@ -10,5 +9,3 @@
 <br>Iceland
 <br>
 
-# PayPal
-[Send Payment](https://paypal.me/navisionguru)
